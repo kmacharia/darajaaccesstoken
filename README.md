@@ -1,4 +1,3 @@
-# darajaaccesstoken
 <h1>Generating Access token for Safaricom’s Daraja platform</h1>
 
 First  [create an app at Safaricom Devs](https://developer.safaricom.co.ke/user/915/apps/add)
