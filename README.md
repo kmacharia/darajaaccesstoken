@@ -5,7 +5,7 @@ First  [create an app at Safaricom Devs](https://developer.safaricom.co.ke/user/
 Click on the app you just created to get consumer key and consumer secret. You will need them when generating Basic Auth string.
 ![where to find keys](https://github.com/kmacharia/darajaaccesstoken/blob/master/consumer-and-secret-keys.png)
 
-The Basic Auth string is a base64 encoded string of your app’s client key and client secret. You can generate base64 encoded string at https://www.base64encode.org/ by concatenating your ConsumerKey, full colon and ConsumerSecret.
+The Basic Auth string is a base64 encoded string of your app’s consumer key and consumer secret. You can generate base64 encoded string at https://www.base64encode.org/ by concatenating your ConsumerKey, full colon and ConsumerSecret.
 
 Once you have Auth string, make a GET request to:
 
